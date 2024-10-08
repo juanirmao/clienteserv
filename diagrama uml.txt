@@ -1,0 +1,4 @@
+Cliente -----> Servidor
+     \       Mensaje         /
+      \   Respuesta      /
+       -------------------
